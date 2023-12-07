@@ -1,0 +1,16 @@
+# Ignore everything
+*.*
+
+# Allow these files
+!.gitattributes
+!.gitignore
+!.gitkeep
+
+!README.md
+!CONTRIBUTING.md
+
+# Allow these types
+!*.py
+
+# FORGET
+nocommit*
